@@ -1,0 +1,16 @@
+/*
+Apenas para remover as estilizações padrões
+ */
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, H;
+    background: #fafafa;
+    color: #333;
+}
