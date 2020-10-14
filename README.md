@@ -13,9 +13,8 @@
 
 <ol>
 <li>Backend com as funcionalidades essenciais finalizado;</li>
-<li>Frontend incompleto com relação ao tratamento de alguns erros</li>
-	
+<li>Frontend incompleto com relação ao tratamento de alguns erros</li>	
 	- Os casos de usos principais como longin, cadastro, listagem das salas de reunião e dos workstations estão funcionais
-
+<ol>
  
 
