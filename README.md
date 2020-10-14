@@ -5,7 +5,7 @@
 <ol>
 <li>Site para gerenciar um Coworking;</li>
 <li>Tudo que foi desenvolvido até o momento, foi feito em apenas três dias;</li>
-<li>Tem como proposta a demonstração dos meus conhecimentos sobre desenvolvimento web(Nodejs,Reactjs e BD);</li>
+<li>Tem como proposta a demonstração dos meus conhecimentos sobre desenvolvimento web(Node.js,React.js e BD);</li>
 <li>Atualmente esta em desenvovimento, porém em velocidade reduzida pois o proposito concluido;</li>
 </ol>
 
